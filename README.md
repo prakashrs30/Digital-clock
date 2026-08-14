@@ -35,6 +35,11 @@ The project uses CMOS counter ICs, logic gates, a 555 timer, 7-segment displays,
 ```
 
 ## ● Breadboard
-<img src="images/Circuit%20image.png" width="800">
 
+<p align="center">
+  <img src="./Circuit%20image.png" width="400" alt="Circuit Image">
+</p>
 
+## ● Demo video
+
+[▶️ Watch Circuit Working](./Circuit.mp4)
