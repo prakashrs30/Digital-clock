@@ -43,5 +43,5 @@ The project uses CMOS counter ICs, logic gates, a 555 timer, 7-segment displays,
 ## ● Demo video
 
 <p>
-  <a href="./Circuit.mp4">▶️ Watch Circuit Working</a>
+  <a href="./Circuit1.mp4">▶️ Watch Circuit Working</a>
 </p>
