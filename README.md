@@ -29,7 +29,7 @@ The project uses CMOS counter ICs, logic gates, a 555 timer, 7-segment displays,
           ↓
      Hours (00–23)
           ↓
-    Day of Week
+        Date
           ↓
      Display Bank
 ```
@@ -80,9 +80,9 @@ Three push buttons — **SET HOUR**, **SET MIN**, and **SET DAY** — allow dire
 
 ### 5. Display Bank
 
-The clock drives **six common-cathode 7-segment displays** (HH:MM:SS), with each segment current-limited by **330Ω resistors**, plus **7 LEDs** for the day-of-week indicator.
+The clock drives **six common-cathode 7-segment displays** (HH:MM:SS), with each segment current-limited by **330Ω resistors**
 
-This provides a total of **13 visual outputs**, all driven directly by CMOS logic without a microcontroller or dedicated display driver IC.
+This provides a outputs, all driven directly by CMOS logic without a microcontroller or dedicated display driver IC.
 
 ### Summary Signal Flow
 
